@@ -1,0 +1,6 @@
+docusign-esign==4.0.0rc1
+black
+fastapi
+redis
+pyjwt
+pydantic_settings

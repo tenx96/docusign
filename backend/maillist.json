@@ -1,0 +1,20 @@
+[
+  {
+    "name": "User Remote",
+    "email": "userdocusignremote@gmail.com",
+    "recipientId": "1",
+    "clientUserId": "1"
+  },
+  {
+    "name": "Docusign Test",
+    "email": "docusigntest981@gmail.com",
+    "recipientId": "2",
+    "clientUserId": "2"
+  },
+  {
+    "name": "Mairing",
+    "email": "mairingdao.hojai@innovaccer.com",
+    "recipientId": "3",
+    "clientUserId": "3"
+  }
+]

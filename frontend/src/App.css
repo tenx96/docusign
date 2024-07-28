@@ -1,0 +1,33 @@
+.box {
+  border: 1px solid black;
+  padding: 10px;
+  margin: 10px;
+}
+
+
+.chip {
+  display: inline-block;
+  padding: 0 8px;
+  border-radius: 25px;
+  margin: 10px;
+}
+
+.chip__success {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.chip__progress {
+  background-color: #2196F3;
+  color: white;
+}
+
+.chip__error {
+  background-color: #f44336;
+  color: white;
+}
+
+.chip__default {
+  background-color: #e7e7e7;
+  color: black;
+}
